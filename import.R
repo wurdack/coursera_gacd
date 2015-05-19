@@ -1,6 +1,8 @@
-## run_analysis.R
+## 
+## import.R
 ##
-## Main script for tidying Samsung data.
+## Aggregate motion data from UCI HAR Dataset.
+##
 ## Sourcing this script will:
 ## 
 ## * Import feature vector data from the training and testing sets. 
